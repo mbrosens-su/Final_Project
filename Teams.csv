@@ -1,148 +1,148 @@
-﻿Sport,League,City,State,Name,Lat,Long
-Basketball,NBA,Atlanta,Georgia,Atlanta Hawks,33.7573,-84.3963
-Basketball,NBA,Boston,Massachusetts,Boston Celtics,42.3662,-71.0621
-Basketball,NBA,Brooklyn,New York,Brooklyn Nets,40.6826,-73.9754
-Basketball,NBA,Charlotte,North Carolina,Charlotte Hornets,35.2252,-80.8393
-Basketball,NBA,Chicago,Illinois,Chicago Bulls,41.8807,-87.6742
-Basketball,NBA,Cleveland,Ohio,Cleveland Cavaliers,41.4965,-81.6882
-Basketball,NBA,Dallas,Texas,Dallas Mavericks,32.7905,-96.8104
-Basketball,NBA,Denver,Colorado,Denver Nuggets,39.7487,-105.0077
-Basketball,NBA,Detroit,Michigan,Detroit Pistons,42.341,-83.055
-Basketball,NBA,San Francisco,California,Golden State Warriors,37.7503,-122.203
-Basketball,NBA,Houston,Texas,Houston Rockets,29.7508,-95.3621
-Basketball,NBA,Indianapolis,Indiana,Indiana Pacers,39.7639,-86.1555
-Basketball,NBA,Los Angeles,California,Los Angeles Clippers,34.043,-118.2673
-Basketball,NBA,Los Angeles,California,Los Angeles Lakers,34.043,-118.2673
-Basketball,NBA,Memphis,Tennessee,Memphis Grizzlies,35.1382,-90.0505
-Basketball,NBA,Miami,Florida,Miami Heat,25.7814,-80.187
-Basketball,NBA,Milwaukee,Wisconsin,Milwaukee Bucks,43.045,-87.9168
-Basketball,NBA,Minneapolis,Minnesota,Minnesota Timberwolves,44.9795,-93.276
-Basketball,NBA,New Orleans,Louisiana,New Orleans Pelicans,29.949,-90.0821
-Basketball,NBA,New York City,New York,New York Knicks,40.7505,-73.9934
-Basketball,NBA,Oklahoma City,Oklahoma,Oklahoma City Thunder,35.4634,-97.5151
-Basketball,NBA,Orlando,Florida,Orlando Magic,28.5392,-81.3839
-Basketball,NBA,Philadelphia,Pennsylvania,Philadelphia 76ers,39.9012,-75.172
-Basketball,NBA,Phoenix,Arizona,Phoenix Suns,33.4457,-112.0712
-Basketball,NBA,Portland,Oregon,Portland Trailblazers,45.5316,-122.6668
-Basketball,NBA,Sacramento,California,Sacramento Kings,38.5802,-121.4997
-Basketball,NBA,San Antonio,Texas,San Antonio Spurs,29.4271,-98.4375
-Basketball,NBA,Toronto,Ontario,Toronto Raptors,43.6435,-79.3791
-Basketball,NBA,Salt Lake City,Utah,Utah Jazz,40.7683,-111.9011
-Basketball,NBA,Washington D.C., ,Washington Wizards,38.8981,-77.0209
-Soccer,MLS,Atlanta,Georgia,Atlanta United FC,33.7553,-84.4012
-Soccer,MLS,Bridgeview,Illinois,Chicago Fire,41.8623,-87.6167
-Soccer,MLS,Cincinnati,Ohio,FC Cincinnati,39.11139,-84.52222
-Soccer,MLS,Columbus,Ohio,Columbus Crew,40.0095,-82.9912
-Soccer,MLS,Washington D.C.,,D.C. United,38.869,-77.0129
-Soccer,MLS,Montreal,Quebec,Montreal Impact,45.5623,-73.553
-Soccer,MLS,Foxborough,Massachusetts,New England Revolution,42.0909,-71.2643
-Soccer,MLS,New York City,New York,New York City FC,40.8296,-73.9262
-Soccer,MLS,Harrison,New Jersey,New York Red Bulls,40.7368,-74.1502
-Soccer,MLS,Orlando,Florida,Orlando City FC,28.5411,-81.3893
-Soccer,MLS,Chester,Pennsylvania,Philadelphia Union,39.8328,-75.3785
-Soccer,MLS,Toronto,Ontario,Toronto FC,43.6332,-79.4186
-Soccer,MLS,Commerce City,Colorado,Colorado Rapids,39.8056,-104.8918
-Soccer,MLS,Frisco,Texas,FC Dallas,33.1543,-96.8352
-Soccer,MLS,Houston,Texas,Houston Dynamo,29.7522,-95.3522
-Soccer,MLS,Carson,California,LA Galaxy,33.8644,-118.2611
-Soccer,MLS,Los Angeles,California,Los Angeles FC,34.0128,-118.2841
-Soccer,MLS,Saint Paul,Minnesota,Minnesota United FC,44.9529,-93.1651
-Soccer,MLS,Portland,Oregon,Portland Timbers,45.5215,-122.6918
-Soccer,MLS,Sandy,Utah,Real Salt Lake,40.5829,-111.8934
-Soccer,MLS,San Jose,California,San Jose Earthquakes,37.3512,-121.9247
-Soccer,MLS,Seattle,Washington,Seattle Sounders FC,47.5952,-122.3316
-Soccer,MLS,Kansas City,Kansas,Sporting Kansas City,39.1216,-94.8232
-Soccer,MLS,Vancouver,British Columbia,Vancouver Whitecaps FC,49.2768,-123.112
-Soccer,MLS,Nashville,Tennessee,Nashville SC,36.1665,-86.7713
-Football,NFL,Orchard Park,New York,Buffalo Bills,42.7738,-78.787
-Football,NFL,Miami Gardens,Florida,Miami Dolphins,25.958,-80.2389
-Football,NFL,Foxborough,Massachusetts,New England Patriots,42.0909,-71.2643
-Football,NFL,East Rutherford,New Jersey,New York jets,40.8135,-74.0745
-Football,NFL,Baltimore,Maryland,Baltimore Ravens,39.278,-76.6227
-Football,NFL,Cincinnati,Ohio,Cincinnati Bengals,39.0955,-84.5161
-Football,NFL,Cleveland,Ohio,Cleveland Browns,41.5061,-81.6995
-Football,NFL,Pittsburgh,Pennsylvania,Pittsburgh Steelers,40.4468,-80.0158
-Football,NFL,Houston,Texas,Houston Texans,29.6847,-95.4107
-Football,NFL,Indianapolis,Indiana,Indianapolis Colts,39.7601,-86.1639
-Football,NFL,Jacksonville,FLorida,Jacksonville Jaguars,30.324,-81.6373
-Football,NFL,Nashville,Tennessee,Tennessee Titans,36.1665,-86.7713
-Football,NFL,Denver,Colorado,Denver Broncos,39.7439,-105.0201
-Football,NFL,Kansas City,Missouri,Kansas City Chiefs,39.0489,-94.4839
-Football,NFL,Carson,California,Los Angeles Chargers,33.8644,-118.2611
-Football,NFL,Oakland,California,Oakland Raiders,37.7516,-122.2005
-Football,NFL,Arlington,Texas,Dallas Cowboys,32.7473,-97.0945
-Football,NFL,East Rutherford,New Jersey,New York Giants,40.8135,-74.0745
-Football,NFL,Philadelphia,Pennsylvania,Philadelphia Eagles,39.9008,-75.1675
-Football,NFL,Landover,Maryland,Washington Redskins,38.9076,-76.8645
-Football,NFL,Chicago,Illinois,Chicago Bears,41.8623,-87.6167
-Football,NFL,Detroit,Michigan,Detroit Lions,42.34,-83.0456
-Football,NFL,Green Bay,Wisconsin,Green Bay Packers,44.5013,-88.0622
-Football,NFL,Minneapolis,Minnesota,Minnesota Vikings,44.9738,-93.2578
-Football,NFL,Atlanta,Georgia,Atlanta Falcons,33.7553,-84.4012
-Football,NFL,Charlotte,North Carolina,Carolina Panthers,35.2258,-80.8528
-Football,NFL,New Orleans,Louisiana,New Orleans Saints,29.9511,-90.0812
-Football,NFL,Tampa,Florida,Tampa Bay Buccaneers,27.9759,-82.5033
-Football,NFL,Glendale,Arizona,Arizona Cardinals,33.5276,-112.2626
-Football,NFL,Los Angeles,California,Los Angeles Rams,34.0141,-118.2879
-Football,NFL,Santa Clara,California,San Francisco 49ers,37.4026,-121.9694
-Football,NFL,Seattle,Washington,Seattle Seahawks,47.5952,-122.3316
-Baseball,MLB,Baltimore,Maryland,Baltimore Orioles,39.2839,-76.6216
-Baseball,MLB,Boston,Massachusetts,Boston Red Sox,42.3467,-71.0972
-Baseball,MLB,New York City,New York,New York Yankees,40.8296,-73.9262
-Baseball,MLB,St. Petersburg,Florida,Tampa Bay Rays,27.7682,-82.6534
-Baseball,MLB,Toronto,Ontario,Toronto Blue Jays,43.6418,-79.3891
-Baseball,MLB,Chicago,Illinois,Chicago White Sox,41.8299,-87.6338
-Baseball,MLB,Cleveland,Ohio,Cleveland Indians,41.4962,-81.6852
-Baseball,MLB,Detroit,Michigan,Detroit Tigers,42.339,-83.0485
-Baseball,MLB,Kansas City,Missouri,Kansas City Royals,39.0517,-94.4803
-Baseball,MLB,Minneapolis,Minnesota,Minnesota Twins,44.9818,-93.2775
-Baseball,MLB,Houston,Texas,Houston Astros,29.7573,-95.3555
-Baseball,MLB,Anaheim,California,Los Angeles Angels,33.8003,-117.8827
-Baseball,MLB,Oakland,California,Oakland Athletics,37.7516,-122.2005
-Baseball,MLB,Seattle,Washington,Seattle Mariners,47.5914,-122.3325
-Baseball,MLB,Arlington,Texas,Texas Rangers,32.7512,-97.0832
-Baseball,MLB,Atlanta,Georgia,Atlanta Braves,33.8907,-84.4677
-Baseball,MLB,Miami,Florida,Miami Marlins,25.7781,-80.2197
-Baseball,MLB,New York City,New York,New York Mets,40.7571,-73.8458
-Baseball,MLB,Philadelphia,Pennsylvania,Philadelphia Phillies,39.9061,-75.1665
-Baseball,MLB,Washington D.C.,,Washington Nationals,38.873,-77.0074
-Baseball,MLB,Chicago,Illinois,Chicago Cubs,41.9484,-87.6553
-Baseball,MLB,Cincinnati,Ohio,Cincinnati Reds,39.0974,-84.5071
-Baseball,MLB,Milwaukee,Wisconsin,Milwaukee Brewers,43.028,-87.9712
-Baseball,MLB,Pittsburgh,Pennsylvania,Pittsburgh Pirates,40.4469,-80.0057
-Baseball,MLB,St. Louis,Missouri,St. Louis Cardinals,38.6226,-90.1928
-Baseball,MLB,Phoenix,Arizona,Arizona Diamondbacks,33.4455,-112.0662
-Baseball,MLB,Denver,Colorado,Colorado Rockies,39.7559,-104.9942
-Baseball,MLB,Los Angeles,California,Los Angeles Dodgers,34.0739,-118.24
-Baseball,MLB,San Diego,California,San Diego Padres,32.7076,-117.157
-Baseball,MLB,San Francisco,California,San Francisco Giants,37.7786,-122.3893
-Hockey,NHL,Boston,Massachusetts,Boston Bruins,42.3662,-71.0621
-Hockey,NHL,Buffalo,New York,Buffalo Sabres,42.8751,-78.8765
-Hockey,NHL,Detroit,Michigan,Detroit Red Wings,42.341,-83.055
-Hockey,NHL,Sunrise,Florida,Florida Panthers,26.1585,-80.3256
-Hockey,NHL,Montreal,Quebec,Montreal Canadiens,45.4961,-73.5693
-Hockey,NHL,Ottawa,Ontario,Ottawa Senators,45.2969,-75.9268
-Hockey,NHL,Tampa,FLorida,Tampa Bay Lightning,27.9427,-82.4518
-Hockey,NHL,Toronto,Ontario,Tornto Maple Leafs,43.6435,-79.3791
-Hockey,NHL,Raleigh,North Carolina,Carolina Hurricanes,35.8033,-78.7218
-Hockey,NHL,Columbus,Ohio,Columbus Blue Jackets,39.9692,-83.0061
-Hockey,NHL,Newark,New Jersey,New Jersey Devils,40.7335,-74.171
-Hockey,NHL,New York City,New York,New York Islanders,40.6826,-73.9754
-Hockey,NHL,New York City,New York,New York Rangers,40.7505,-73.9934
-Hockey,NHL,Philadelphia,Pennsylvania,Philadelphia Flyers,39.9012,-75.172
-Hockey,NHL,Washington D.C.,,Washington Capitals,38.8981,-77.0209
-Hockey,NHL,Chicago,Illinois,Chicago Blackhawks,41.8807,-87.6742
-Hockey,NHL,Denver,Colorado,Colorado Avalanche,39.7487,-105.0077
-Hockey,NHL,Dallas,Texas,Dallas Stars,32.7905,-96.8104
-Hockey,NHL,Saint Paul,Minnesota,Minnesota Wild,44.9448,-93.1011
-Hockey,NHL,Nashville,Tennessee,Nashville Predators,36.1592,-86.7785
-Hockey,NHL,St. Louis,Missouri,St. Louis Blues,38.6268,-90.2027
-Hockey,NHL,Winnipeg,Manitoba,Winnipeg Jets,49.8926,-97.1437
-Hockey,NHL,Anaheim,California,Anaheim Ducks,33.8078,-117.8765
-Hockey,NHL,Glendale,Arizona,Arizona Coyotes,33.5321,-112.2612
-Hockey,NHL,Calgary,Alberta,Calgary Flames,51.0374,-114.0519
-Hockey,NHL,Edmonton,Alberta,Edmonton Oilers,53.547,-113.4979
-Hockey,NHL,Los Angeles,California,Los Angeles Kings,34.043,-118.2673
-Hockey,NHL,San Jose,California,San Jose Sharks,37.3328,-121.9012
-Hockey,NHL,Vancouver,British Columbia,Vancouver Canucks,49.2778,-123.1088
-Hockey,NHL,Paradise,Nevada,Vegas Golden Knights,36.1029,-115.1784
+﻿Sport,League,City,Team,Name,Lat,Long
+Basketball,NBA,Atlanta,hawks,Atlanta Hawks,33.7573,-84.3963
+Basketball,NBA,Boston,celtics,Boston Celtics,42.3662,-71.0621
+Basketball,NBA,Brooklyn,nets,Brooklyn Nets,40.6826,-73.9754
+Basketball,NBA,Charlotte,hornets,Charlotte Hornets,35.2252,-80.8393
+Basketball,NBA,Chicago,bulls,Chicago Bulls,41.8807,-87.6742
+Basketball,NBA,Cleveland,cavaliers,Cleveland Cavaliers,41.4965,-81.6882
+Basketball,NBA,Dallas,mavericks,Dallas Mavericks,32.7905,-96.8104
+Basketball,NBA,Denver,nuggets,Denver Nuggets,39.7487,-105.0077
+Basketball,NBA,Detroit,pistons,Detroit Pistons,42.341,-83.055
+Basketball,NBA,San Francisco,warriors,Golden State Warriors,37.7503,-122.203
+Basketball,NBA,Houston,rockets,Houston Rockets,29.7508,-95.3621
+Basketball,NBA,Indianapolis,pacers,Indiana Pacers,39.7639,-86.1555
+Basketball,NBA,Los Angeles,clippers,Los Angeles Clippers,34.043,-118.2673
+Basketball,NBA,Los Angeles,lakers,Los Angeles Lakers,34.043,-118.2673
+Basketball,NBA,Memphis,grizzlies,Memphis Grizzlies,35.1382,-90.0505
+Basketball,NBA,Miami,heat,Miami Heat,25.7814,-80.187
+Basketball,NBA,Milwaukee,bucks,Milwaukee Bucks,43.045,-87.9168
+Basketball,NBA,Minneapolis,timberwolves,Minnesota Timberwolves,44.9795,-93.276
+Basketball,NBA,New Orleans,pelicans,New Orleans Pelicans,29.949,-90.0821
+Basketball,NBA,New York City,knicks,New York Knicks,40.7505,-73.9934
+Basketball,NBA,Oklahoma City,thunder,Oklahoma City Thunder,35.4634,-97.5151
+Basketball,NBA,Orlando,magic,Orlando Magic,28.5392,-81.3839
+Basketball,NBA,Philadelphia,sixers,Philadelphia 76ers,39.9012,-75.172
+Basketball,NBA,Phoenix,suns,Phoenix Suns,33.4457,-112.0712
+Basketball,NBA,Portland,trailblazers,Portland Trailblazers,45.5316,-122.6668
+Basketball,NBA,Sacramento,kings,Sacramento Kings,38.5802,-121.4997
+Basketball,NBA,San Antonio,spurs,San Antonio Spurs,29.4271,-98.4375
+Basketball,NBA,Toronto,raptors,Toronto Raptors,43.6435,-79.3791
+Basketball,NBA,Salt Lake City,jazz,Utah Jazz,40.7683,-111.9011
+Basketball,NBA,Washington D.C.,wizards ,Washington Wizards,38.8981,-77.0209
+Soccer,MLS,Atlanta,atlanta,Atlanta United FC,33.7553,-84.4012
+Soccer,MLS,Bridgeview,chicago,Chicago Fire,41.8623,-87.6167
+Soccer,MLS,Cincinnati,cincinnati,FC Cincinnati,39.11139,-84.52222
+Soccer,MLS,Columbus,columbus,Columbus Crew,40.0095,-82.9912
+Soccer,MLS,Washington D.C.,d.c.-united,D.C. United,38.869,-77.0129
+Soccer,MLS,Montreal,montreal,Montreal Impact,45.5623,-73.553
+Soccer,MLS,Foxborough,new-england,New England Revolution,42.0909,-71.2643
+Soccer,MLS,New York City,nycfc,New York City FC,40.8296,-73.9262
+Soccer,MLS,Harrison,ny-red-bulls,New York Red Bulls,40.7368,-74.1502
+Soccer,MLS,Orlando,orlando,Orlando City FC,28.5411,-81.3893
+Soccer,MLS,Chester,philadelphia,Philadelphia Union,39.8328,-75.3785
+Soccer,MLS,Toronto,toronto-fc,Toronto FC,43.6332,-79.4186
+Soccer,MLS,Commerce City,colorado,Colorado Rapids,39.8056,-104.8918
+Soccer,MLS,Frisco,fc-dallas,FC Dallas,33.1543,-96.8352
+Soccer,MLS,Houston,houston,Houston Dynamo,29.7522,-95.3522
+Soccer,MLS,Carson,la-galaxy,LA Galaxy,33.8644,-118.2611
+Soccer,MLS,Los Angeles,lafc,Los Angeles FC,34.0128,-118.2841
+Soccer,MLS,Saint Paul,minnesota,Minnesota United FC,44.9529,-93.1651
+Soccer,MLS,Portland,portland,Portland Timbers,45.5215,-122.6918
+Soccer,MLS,Sandy,real-salt-lake,Real Salt Lake,40.5829,-111.8934
+Soccer,MLS,San Jose,san-jose,San Jose Earthquakes,37.3512,-121.9247
+Soccer,MLS,Seattle,seattle,Seattle Sounders FC,47.5952,-122.3316
+Soccer,MLS,Kansas City,sporting-kc,Sporting Kansas City,39.1216,-94.8232
+Soccer,MLS,Vancouver,vancouver,Vancouver Whitecaps FC,49.2768,-123.112
+Soccer,MLS,Nashville,nashville,Nashville SC,36.1665,-86.7713
+Football,NFL,Orchard Park,bills,Buffalo Bills,42.7738,-78.787
+Football,NFL,Miami Gardens,dolphins,Miami Dolphins,25.958,-80.2389
+Football,NFL,Foxborough,patriots,New England Patriots,42.0909,-71.2643
+Football,NFL,East Rutherford,jets,New York jets,40.8135,-74.0745
+Football,NFL,Baltimore,ravens,Baltimore Ravens,39.278,-76.6227
+Football,NFL,Cincinnati,bengals,Cincinnati Bengals,39.0955,-84.5161
+Football,NFL,Cleveland,browns,Cleveland Browns,41.5061,-81.6995
+Football,NFL,Pittsburgh,steelers,Pittsburgh Steelers,40.4468,-80.0158
+Football,NFL,Houston,texans,Houston Texans,29.6847,-95.4107
+Football,NFL,Indianapolis,colts,Indianapolis Colts,39.7601,-86.1639
+Football,NFL,Jacksonville,jaguars,Jacksonville Jaguars,30.324,-81.6373
+Football,NFL,Nashville,titans,Tennessee Titans,36.1665,-86.7713
+Football,NFL,Denver,broncos,Denver Broncos,39.7439,-105.0201
+Football,NFL,Kansas City,chiefs,Kansas City Chiefs,39.0489,-94.4839
+Football,NFL,Carson,chargers,Los Angeles Chargers,33.8644,-118.2611
+Football,NFL,Oakland,raiders,Oakland Raiders,37.7516,-122.2005
+Football,NFL,Arlington,cowboys,Dallas Cowboys,32.7473,-97.0945
+Football,NFL,East Rutherford,giants,New York Giants,40.8135,-74.0745
+Football,NFL,Philadelphia,eagles,Philadelphia Eagles,39.9008,-75.1675
+Football,NFL,Landover,redskins,Washington Redskins,38.9076,-76.8645
+Football,NFL,Chicago,bears,Chicago Bears,41.8623,-87.6167
+Football,NFL,Detroit,lions,Detroit Lions,42.34,-83.0456
+Football,NFL,Green Bay,packers,Green Bay Packers,44.5013,-88.0622
+Football,NFL,Minneapolis,vikings,Minnesota Vikings,44.9738,-93.2578
+Football,NFL,Atlanta,falcons,Atlanta Falcons,33.7553,-84.4012
+Football,NFL,Charlotte,panthers,Carolina Panthers,35.2258,-80.8528
+Football,NFL,New Orleans,saints,New Orleans Saints,29.9511,-90.0812
+Football,NFL,Tampa,buccaneers,Tampa Bay Buccaneers,27.9759,-82.5033
+Football,NFL,Glendale,cardinals,Arizona Cardinals,33.5276,-112.2626
+Football,NFL,Los Angeles,rams,Los Angeles Rams,34.0141,-118.2879
+Football,NFL,Santa Clara,49ers,San Francisco 49ers,37.4026,-121.9694
+Football,NFL,Seattle,seahawks,Seattle Seahawks,47.5952,-122.3316
+Baseball,MLB,Baltimore,orioles,Baltimore Orioles,39.2839,-76.6216
+Baseball,MLB,Boston,redsox,Boston Red Sox,42.3467,-71.0972
+Baseball,MLB,New York City,yankees,New York Yankees,40.8296,-73.9262
+Baseball,MLB,St. Petersburg,rays,Tampa Bay Rays,27.7682,-82.6534
+Baseball,MLB,Toronto,bluejays,Toronto Blue Jays,43.6418,-79.3891
+Baseball,MLB,Chicago,whitesox,Chicago White Sox,41.8299,-87.6338
+Baseball,MLB,Cleveland,indians,Cleveland Indians,41.4962,-81.6852
+Baseball,MLB,Detroit,tigers,Detroit Tigers,42.339,-83.0485
+Baseball,MLB,Kansas City,royals,Kansas City Royals,39.0517,-94.4803
+Baseball,MLB,Minneapolis,twins,Minnesota Twins,44.9818,-93.2775
+Baseball,MLB,Houston,astros,Houston Astros,29.7573,-95.3555
+Baseball,MLB,Anaheim,angels,Los Angeles Angels,33.8003,-117.8827
+Baseball,MLB,Oakland,athletics,Oakland Athletics,37.7516,-122.2005
+Baseball,MLB,Seattle,mariners,Seattle Mariners,47.5914,-122.3325
+Baseball,MLB,Arlington,rangers,Texas Rangers,32.7512,-97.0832
+Baseball,MLB,Atlanta,braves,Atlanta Braves,33.8907,-84.4677
+Baseball,MLB,Miami,marlins,Miami Marlins,25.7781,-80.2197
+Baseball,MLB,New York City,mets,New York Mets,40.7571,-73.8458
+Baseball,MLB,Philadelphia,phillies,Philadelphia Phillies,39.9061,-75.1665
+Baseball,MLB,Washington D.C.,nationals,Washington Nationals,38.873,-77.0074
+Baseball,MLB,Chicago,cubs,Chicago Cubs,41.9484,-87.6553
+Baseball,MLB,Cincinnati,reds,Cincinnati Reds,39.0974,-84.5071
+Baseball,MLB,Milwaukee,brewers,Milwaukee Brewers,43.028,-87.9712
+Baseball,MLB,Pittsburgh,pirates,Pittsburgh Pirates,40.4469,-80.0057
+Baseball,MLB,St. Louis,cardinals,St. Louis Cardinals,38.6226,-90.1928
+Baseball,MLB,Phoenix,diamondbacks,Arizona Diamondbacks,33.4455,-112.0662
+Baseball,MLB,Denver,rockies,Colorado Rockies,39.7559,-104.9942
+Baseball,MLB,Los Angeles,dodgers,Los Angeles Dodgers,34.0739,-118.24
+Baseball,MLB,San Diego,padres,San Diego Padres,32.7076,-117.157
+Baseball,MLB,San Francisco,giants,San Francisco Giants,37.7786,-122.3893
+Hockey,NHL,Boston,bruines,Boston Bruins,42.3662,-71.0621
+Hockey,NHL,Buffalo,sabres,Buffalo Sabres,42.8751,-78.8765
+Hockey,NHL,Detroit,redwings,Detroit Red Wings,42.341,-83.055
+Hockey,NHL,Sunrise,panthers,Florida Panthers,26.1585,-80.3256
+Hockey,NHL,Montreal,canadiens,Montreal Canadiens,45.4961,-73.5693
+Hockey,NHL,Ottawa,senators,Ottawa Senators,45.2969,-75.9268
+Hockey,NHL,Tampa,lightning,Tampa Bay Lightning,27.9427,-82.4518
+Hockey,NHL,Toronto,mapleleafs,Tornto Maple Leafs,43.6435,-79.3791
+Hockey,NHL,Raleigh,hurricanes,Carolina Hurricanes,35.8033,-78.7218
+Hockey,NHL,Columbus,bluejackets,Columbus Blue Jackets,39.9692,-83.0061
+Hockey,NHL,Newark,devils,New Jersey Devils,40.7335,-74.171
+Hockey,NHL,New York City,islanders,New York Islanders,40.6826,-73.9754
+Hockey,NHL,New York City,rangers,New York Rangers,40.7505,-73.9934
+Hockey,NHL,Philadelphia,flyers,Philadelphia Flyers,39.9012,-75.172
+Hockey,NHL,Washington D.C.,capitals,Washington Capitals,38.8981,-77.0209
+Hockey,NHL,Chicago,blackhawks,Chicago Blackhawks,41.8807,-87.6742
+Hockey,NHL,Denver,avalanche,Colorado Avalanche,39.7487,-105.0077
+Hockey,NHL,Dallas,stars,Dallas Stars,32.7905,-96.8104
+Hockey,NHL,Saint Paul,wild,Minnesota Wild,44.9448,-93.1011
+Hockey,NHL,Nashville,predators,Nashville Predators,36.1592,-86.7785
+Hockey,NHL,St. Louis,blues,St. Louis Blues,38.6268,-90.2027
+Hockey,NHL,Winnipeg,jets,Winnipeg Jets,49.8926,-97.1437
+Hockey,NHL,Anaheim,ducks,Anaheim Ducks,33.8078,-117.8765
+Hockey,NHL,Glendale,coyotes,Arizona Coyotes,33.5321,-112.2612
+Hockey,NHL,Calgary,flames,Calgary Flames,51.0374,-114.0519
+Hockey,NHL,Edmonton,oilers,Edmonton Oilers,53.547,-113.4979
+Hockey,NHL,Los Angeles,kings,Los Angeles Kings,34.043,-118.2673
+Hockey,NHL,San Jose,sharks,San Jose Sharks,37.3328,-121.9012
+Hockey,NHL,Vancouver,canucks,Vancouver Canucks,49.2778,-123.1088
+Hockey,NHL,Paradise,knights,Vegas Golden Knights,36.1029,-115.1784
