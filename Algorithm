@@ -1,0 +1,27 @@
+Inputs:
+- Address
+- Sport of interest
+- Choice to continue
+- Team of interest
+
+Outputs:
+- Map with teams located in 100 mile radius
+- Driving time and distance
+- Link to website
+
+Algorithm:
+- Import necessary modules
+- Mark down API key and get API access
+- Use pandas to read CSV
+- ask for address
+- geocode address using google maps API
+- code for lat and lon
+- use folium to mark a circle around the address on a map
+- ask for team of interest
+- use formula to find teams within the radius
+- print map
+
+
+- in new kernel, ask if the user would like to continue
+- if they say yes, have them pick a team
+- load team data including team website and distance and duration using google maps API
